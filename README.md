@@ -16,7 +16,7 @@ Built from real operational experience at [Tux Bilişim](https://tuxbilisim.com)
 ## Quick Start
 
 ```bash
-git clone https://github.com/tuxbilisim/proxmox-audit-tools.git
+git clone https://github.com/semihtore/proxmox-audit-tools.git
 cd proxmox-audit-tools
 
 # Run a full cluster audit
