@@ -28,7 +28,7 @@ bash scripts/storage-check.sh
 
 ## Use Cases
 
-- **Pre-migration validation** — Verify environment readiness before VMware to Proxmox migration
+- **Pre-migration validation** — Verify environment readiness before VMware to Proxmox migration. See the full [VMware to Proxmox migration guide](https://tuxbilisim.com/migration-guide/).
 - **Production health checks** — Regular cluster, storage and network consistency audits
 - **Incident analysis** — Gather system state data during troubleshooting
 - **Compliance reporting** — Generate infrastructure state reports for operations teams
